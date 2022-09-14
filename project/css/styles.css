@@ -1,0 +1,43 @@
+.wrap {
+    height: 300px;
+    background-image: url('../images/img-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+}
+
+.card input,.card select {
+    width: 100%;
+}
+
+.card {
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.card .borde-titulo {
+    border-bottom: 2px solid !important;
+    padding-bottom: 5px !important;
+}
+
+
+.x-icon {
+    color:red !important;
+    text-decoration:none; 
+}
+
+.deleteAll a{
+    color:red !important;
+    text-decoration:none;
+    font-size: 1.5rem;
+}
+
+.tbDetallePedido, .formDetalle {
+    margin: auto;
+    width: 80% !important; 
+}
+
+.wrap-tbHistorial{
+    margin: auto;
+    width: 80% !important;
+}

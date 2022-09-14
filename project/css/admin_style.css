@@ -1,0 +1,22 @@
+.wrap-tbProductos{
+    margin: auto;
+    width: 80% !important; 
+}
+
+.wrap-tbUsers{
+    margin: auto;
+    width: 90% !important; 
+}
+
+.wrap-tbOrders{
+    margin: auto;
+    width: 90% !important; 
+}
+
+.fas.fa-times {
+    color: red !important;
+}
+
+.tb-actions a {
+    text-decoration: none;
+}
